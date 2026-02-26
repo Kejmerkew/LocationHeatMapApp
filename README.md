@@ -56,7 +56,8 @@ The application follows a clean separation of concerns:
 5. Pressing Stop Tracking cancels the loop via CancellationToken
 
 ## MSCS-533-A01
-This project was developed as part of the final project for the *Software Engineering and Multiplatform App Development* class at UCumberlands
+This project was developed as part of the final project for the *Software Engineering and Multiplatform App Development* class at UCumberlands.
+
 *Ronit Pawar*
 
 
