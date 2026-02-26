@@ -7,7 +7,7 @@
     Title="LocationHeatMapApp">
 
     <ShellContent
-        Title="Home"
+        Title="User Location Heat Map"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
